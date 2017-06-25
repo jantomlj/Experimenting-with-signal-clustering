@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:/Fer-novo/Diplomski rad/modeli/saves/autoenkoder.tensorflow"
+all_model_checkpoint_paths: "F:/Fer-novo/Diplomski rad/modeli/saves/autoenkoder.tensorflow"
